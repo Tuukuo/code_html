@@ -1,0 +1,130 @@
+.list ul{
+list-style: none;
+display: flex;
+gap: 15%;
+font-style: italic;
+font-weight: bolder;
+border: solid 1px;
+padding: 40px;
+background-color: black;
+color: azure;
+}
+.globe{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    padding-left: 20%;
+}
+.h1{
+    padding-left: 35%;
+    color: blue;
+}
+.container{
+    padding-left: 8%;
+    padding-top: 5%;
+    line-height: 30px;
+    color: brown;
+    font-size: x-large;
+}
+#button{
+    padding: 15px;
+    border-radius: 15px;
+    margin-left: 50%;
+    margin-top: 30px;
+    background-color: darkorange;
+    color: azure;
+    
+}
+.words{
+    display: flex;
+    gap: 5%;
+
+}
+.paragraph{
+    padding-left: 5%;
+    padding-top: 5%;
+    line-height: 20px;
+    color: purple;
+    font-size: x-large;
+} 
+.image{
+    height: 150px;
+    width: 20%;
+}
+.photo{
+    position: relative;
+    width: 30%;
+    height: 250px;
+    padding-left: 20%;
+    
+}
+.mini{
+position: absolute;
+top: 1170px;
+left: 500px;
+color: white;
+font-size: x-large;
+font-weight: bold;
+}
+.button{
+    position: absolute;
+    top: 1300px;
+    left: 600px;
+    color:white;
+    background-color: darkorange;
+    padding: 10px;
+
+}
+.gallery{
+    position: relative;
+    width: 30%;
+    height: 250px;   
+}
+.bottom{
+    position: absolute;
+    top: 1170px;
+    left: 1100px;
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+    color: blue;
+}
+.input{
+    position: absolute;
+    top: 1300px;
+    left: 1200px;
+    color:white;
+    background-color: darkorange;
+    padding: 10px;  
+}
+.moving{
+    padding-top: 20px;
+    
+}
+.heading1{
+    padding-left: 25%;
+}
+
+ .heading2{ 
+padding-left: 30%;
+
+}
+.one-two{
+    display: flex;
+    color: bisque;
+}
+.footer{
+    background-color: black;
+    padding-top: 5%;
+}
+.explore{
+    border: solid 1px;
+    padding: 10px;
+    background-color: chocolate;
+}
+.last{
+    color: aliceblue;
+    display: flex;
+    gap: 20%;
+    margin-left: 40%;
+}
